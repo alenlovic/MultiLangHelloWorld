@@ -1,0 +1,44 @@
+[
+  {
+    "language": "en",
+    "translations": {
+      "Greeting": "Hello World"
+    }
+  },
+  {
+    "language": "es",
+    "translations": {
+      "Greeting": "Hola Mundo"
+    }
+  },
+  {
+    "language": "fr",
+    "translations": {
+      "Greeting": "Salut tout le monde"
+    }
+  },
+  {
+    "language": "ba",
+    "translations": {
+      "Greeting": "Zdravo svijete"
+    }
+  },
+  {
+    "language": "hr",
+    "translations": {
+      "Greeting": "Pozdrav svijete"
+    }
+  },
+  {
+    "language": "sr",
+    "translations": {
+      "Greeting": "Zdravo svete"
+    }
+  },
+  {
+    "language": "de",
+    "translations": {
+      "Greeting": "Hallo Welt"
+    }
+  }
+]
